@@ -1,7 +1,0 @@
-body,input,option {
-	font-family: 'Microsoft Yahei', Verdana;
-}
-
-.container {
-	width: 1200px;
-}
